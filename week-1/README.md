@@ -38,3 +38,4 @@ Sebelum memulai tugas di atas, hal-hal yang perlu dipersiapkan antara lain ;
 
 - [Install ubuntu server](install-ubuntu.md)
 - [Setup-network](Setup-network.md)
+- [Install-application](Install-application.md)
