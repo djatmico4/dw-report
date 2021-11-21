@@ -36,6 +36,7 @@ Sebelum memulai tugas di atas, hal-hal yang perlu dipersiapkan antara lain ;
 
 # **Penyelesaian**
 
-- [Install ubuntu server](install-ubuntu.md)
-- [Setup-network](Setup-network.md)
-- [Install-application](Install-application.md)
+- [VMWare - Install Ubuntu Server](VMWare-Install-Ubuntu-Server.md)
+- [VMWare - Setup network](VMWare-Setup-Network.md)
+- [VMWare - Install Application](VMWare-Install-Application.md)
+- [AWS - Create and Setup Server](AWS-Create-and-Setup-Server.md)
