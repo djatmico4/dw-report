@@ -25,5 +25,5 @@
 
 6. Test konkesi menggunakan ping. <br>
    
-      ping google.com
+         ping google.com
    ![ping](assets/images-setting-network/ping.png) <br>

@@ -14,7 +14,7 @@
         sudo apt install nginx -y
     ![install-nginx](assets/images-aws-reverse-proxy/install-nginx.png) <br>
 
-    - Cek status `Nginx`
+    - Cek status `Nginx` <br>
     ![status-nginx](assets/images-aws-reverse-proxy/status-nginx.png) <br>
 
 3. Buat directory baru dan ubah hak aksesnya.

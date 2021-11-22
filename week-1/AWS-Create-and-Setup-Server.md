@@ -37,7 +37,7 @@
 13. Pilih `Allocate ip address`, biarkan default saja, lalau `allocate`. AWS akan mengalokasikan sebuah IP yang dapat digunakan.
     ![allocateip](assets/images-aws-create&setup-server/allocateip.png) <br>
 
-14. Pada tombol `Actions`, pilih `Associate ellastic IP address`, lalu pilih instancenya. Klik `Associate`
+14. Pada tombol `Actions`, pilih `Associate elastic IP address`, lalu pilih instancenya. Klik `Associate`
     ![associateip](assets/images-aws-create&setup-server/associateip.png) <br>
 
 15. Masuk ke instances, lalu refresh.
@@ -102,4 +102,4 @@
     ![sshserver-app](assets/images-aws-create&setup-server/sshserver-app.png) <br>
 
     - Jangan lupa update dan upgrade agar lebih aman.
-    ![]
+    ![update-upgrade](assets/images-aws-create&setup-server/update-upgrade-app.png)

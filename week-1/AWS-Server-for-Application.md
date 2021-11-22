@@ -16,7 +16,7 @@
 
     - Install `NodeJS versi 10.x`
   
-        nvm install 10
+            nvm install 10
     ![install-nvm-2](assets/images-aws-server-for-app/install-nvm-2.png) <br>
 
 3. Clone aplikasi `https://github.com/sgnd/dumbflix-frontend.git`

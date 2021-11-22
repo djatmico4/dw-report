@@ -13,7 +13,7 @@
 5. Copy dan simpan api key.
    ![copy-key](assets/images-aws-ssl-config/copy-key.png) <br>
 
-6. Buka terminal dan masuk ke ddalam server.
+6. Buka terminal dan masuk ke dalam server.
 7. Buatlah folder dan di dalamnya buat file untuk menyimpan api key cloudflare.
    ![folder-api](assets/images-aws-ssl-config/folder-api.png) <br>
    ![save-api](assets/images-aws-ssl-config/save-api.png) <br>
@@ -49,7 +49,7 @@
         cat dody.onlinecamp.id
     ![cek-config](assets/images-aws-ssl-config/cek-config.png) <br>
 
-7. Lakukan validasi dan reload `nginx`
+7. Lakukan validasi dan reload `nginx` <br>
    ![validasi-reload](assets/images-aws-ssl-config/validasi-reload.png) <br>
 
 8. Jalankan di browser.

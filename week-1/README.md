@@ -42,5 +42,5 @@ Sebelum memulai tugas di atas, hal-hal yang perlu dipersiapkan antara lain ;
 - [AWS - Create and Setup Server](AWS-Create-and-Setup-Server.md)
 - [AWS - Server for Application](AWS-Server-for-Application.md)
 - [AWS - Reverse Proxy](AWS-Reverse-Proxy.md)
-- [AWS - Custom Domain](AWS-Ciustom-Domain.md)
+- [AWS - Custom Domain](AWS-Custom-Domain.md)
 - [AWS - SSL Configuration](AWS-SSL-Configuration.md)
