@@ -40,3 +40,7 @@ Sebelum memulai tugas di atas, hal-hal yang perlu dipersiapkan antara lain ;
 - [VMWare - Setup network](VMWare-Setup-Network.md)
 - [VMWare - Install Application](VMWare-Install-Application.md)
 - [AWS - Create and Setup Server](AWS-Create-and-Setup-Server.md)
+- [AWS - Server for Application](AWS-Server-for-Application.md)
+- [AWS - Reverse Proxy](AWS-Reverse-Proxy.md)
+- [AWS - Custom Domain](AWS-Ciustom-Domain.md)
+- [AWS - SSL Configuration](AWS-SSL-Configuration.md)
