@@ -58,7 +58,7 @@
     ![update-upgrade](assets/images-aws-create&setup-server/update-upgrade.png) <br><br>
 
 
-## **Server untuk reverse proxy**
+## **Server untuk aplikasi**
 
 1. Login terlebih dahulu ke dalam AWS Educate.
 2. Go to classrom.
