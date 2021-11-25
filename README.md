@@ -10,4 +10,13 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - Server for reverse proxy AWS
 - Custom domain AWS
 - SSL configuration AWS
-- [Baca lebih lanjut](week-1/README.md)
+- [Baca lebih lanjut](week-1/README.md) <br><br>
+
+## **Minggu ke 2**
+- Install git and SSH key
+- Setup databases
+- Deployment backend app
+- Reverse proxy for backend app
+- Custom domain for backend app
+- SSL configuration for backend app
+- [Baca lebih lanjut](week-2/README.md)
