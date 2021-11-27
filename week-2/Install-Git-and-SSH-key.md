@@ -3,7 +3,7 @@
 <br>
 
 1. Login ke akun Github.
-2. Buka repository backend apps yang akan di-fork, https://github.com/sgnd/dumbplay-backend.
+2. Buka repository backend apps yang akan di-fork, https://github.com/sgnd/dumbflix-backend.
 3. Pada halaman repository backend apps, klik fork mpada pojok kanan atas, maka otomatis kita akan masuk ke repository akun github kita.
    ![fork](assets/images-install-git-and-ssh-key/fork.png) <br><br>
 
