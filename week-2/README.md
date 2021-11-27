@@ -36,3 +36,5 @@
 # **Penyelesaian**
 
 - [Install Git & SSH key](Install-Git-and-SSH-key.md)
+- [Setup Databases](Setup-Databases.md)
+- [Deployment Backend App](Deployment-Backend-App.md)

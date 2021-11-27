@@ -39,6 +39,6 @@
         sequelize db:migrate
     ![sequelize](assets/images-deployment-for-backend-app/sequelize.png) <br>
 
-3. Jalankan backend app dengan pm2
+3. Jalankan backend app dengan pm2. <br>
    ![run](assets/images-deployment-for-backend-app/run.png) <br>
 
