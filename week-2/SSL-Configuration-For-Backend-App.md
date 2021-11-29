@@ -19,10 +19,13 @@
 1. Login ke server gateway.
 2. Lakukan update dan upgrade sistem.
 3. Install certbot.
-4. Jalankan perintah 
+4. Jalankan perintah `sudo certbot certonly -d api.dody.onlinecamp.id`. <br>
+   ![hasilcertbot](assets/images-ssl-configuration-for-backend-app/hasilcertbot.png) <br>
 
-        sudo certbot certonly -d api.dody.onlinecamp.id
-    ![]
+5. Buka website `joko.onlinecamp.id`
+6. Buat akun atau registrasi untuk testing koneksi ke backend.
+   ![regist](assets/images-ssl-configuration-for-backend-app/regist.png) <br>
+   ![result](assets/images-ssl-configuration-for-backend-app/result.png) <br>
 
 
 
