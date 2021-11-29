@@ -22,7 +22,7 @@
 4. Jalankan perintah `sudo certbot certonly -d api.dody.onlinecamp.id`. <br>
    ![hasilcertbot](assets/images-ssl-configuration-for-backend-app/hasilcertbot.png) <br>
 
-5. Buka website `joko.onlinecamp.id`
+5. Buka website `dody.onlinecamp.id`
 6. Buat akun atau registrasi untuk testing koneksi ke backend.
    ![regist](assets/images-ssl-configuration-for-backend-app/regist.png) <br>
    ![result](assets/images-ssl-configuration-for-backend-app/result.png) <br>
