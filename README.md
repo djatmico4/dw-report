@@ -10,7 +10,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - Server for reverse proxy AWS
 - Custom domain AWS
 - SSL configuration AWS
-- [Baca lebih lanjut](week-1/README.md) <br><br>
+- [Baca lebih lanjut](week-1/README.md)
 
 ## **Minggu ke 2**
 - Install git and SSH key
@@ -20,3 +20,11 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - Custom domain for backend app
 - SSL configuration for backend app
 - [Baca lebih lanjut](week-2/README.md)
+
+## **Minggu ke 3**
+- Install docker
+- Create docker images
+- Install appilcations
+- Install jenkins
+- Setup jenkins jobs
+- [Baca lebih lanjut](week-3/README.md)
