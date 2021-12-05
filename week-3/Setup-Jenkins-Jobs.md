@@ -1,0 +1,72 @@
+# **SETUP JENKINS JOBS**
+## Kebutuhan
+
+- Install plugin Publish Over SSH
+- Instance/Server app IP address
+- Aws-ssh-key
+- System configuration
+
+## Konfigurasi Sistem di Jenkins
+
+1. Install plugin `publish Over SSH`.
+   - Di halaman dashboard masuk ke `manage jenkins`.
+   - Kemudian pilih `manage plugins`
+   - Cari publish over ssh. <br>
+    ![installplugins](assets/images-setup-jenkins/installplugins.png) <br>
+    ![installplugins2](assets/images-setup-jenkins/installplugins2.png) <br><br>
+
+2. Copy paste aws key / key pair yang digunakan server. <br>
+   ![addprivatekey](assets/images-setup-jenkins/addprivatekey.png) <br>
+
+3. Pilih `Add` beri nama server.
+4. Masukkan hostname server.
+5. Input username dan password bila sudah setting sebelumnya.
+6. Beri nilai 0 pada `Timeout (ms)`. <br>
+   ![settingserver](assets/images-setup-jenkins/settingserver.png) <br>
+
+   - Kemudian lakukan `Test Configuration` apabila muncul tulisan `success` maka konfigurasi berhasil.
+   - Apply dan save. <br><br>
+
+## Create Jobs
+
+1. Pada dashboard jenkins, pilih `new item` kemudian isikan nama dan pilih `Freestyle project`. <br>
+   ![entername](assets/images-setup-jenkins/entername.png) <br>
+
+2. Pada bagian `General` input deskripsi project (optional).
+3. Pada bagian `Source code management` pilih `Git`. Lalu masukan reposiroty dan branch yang digunakan. <br>
+   ![sourcecodeman](assets/images-setup-jenkins/sourcecodeman.png) <br>
+
+4. Untuk `Build trigger` pilih `Github hook trigger for GITScm polling`. <br>
+   ![buildtrigger](assets/images-setup-jenkins/buildtrigger.png) <br>
+
+5. Pada bagin `Build` pilih `Send files or execute commands over SSH`. <br>
+   ![addbuildstep](assets/images-setup-jenkins/addbuildstep.png) <br>
+
+6. Kemudian checklist `Verbose output in console` untuk bisa melihat log buildnya. <br>
+   ![verbose](assets/images-setup-jenkins/verbose.png) <br>
+
+7. Pada bagian `Transfer set` isi source file, remote directory dan exec command. <br>
+   ![transferset](assets/images-setup-jenkins/transferset.png) <br>
+
+   - Set `Exec timeout (ms)` jadi 0.
+   - Setelah itu `Apply dan save`.
+   - Build manual dengan `Build Now` <br>
+  ![buildnow](assets/images-setup-jenkins/buildnow.png) <br><br>
+
+## Setup Webhook Github
+
+1. Login ke akun github.
+2. Masuk ke halaman settings repository.
+3. Pilih Webhook.
+4. Add Webhook.
+5. Masukkan hostname server jenkins payload URL `http://jenkins.dody.onlinecamp.id/github-webhook/`.
+6. Kemudian pilih event `Just the push event`.
+7. Checklist `Active`.
+8. Lalu `Add Webhook`. <br>
+   ![addwebhook](assets/images-setup-jenkins/addwebhook.png) <br>
+
+9. Kemudian test webhook. Kita coba edit file README.md <br>
+    ![editreadme](assets/images-setup-jenkins/editreadme.png) <br>
+
+    - Berikut hasilnya. Masuk ke jenkins dan lihat di status atau change-nya <br>
+    ![resultjenkins](assets/images-setup-jenkins/resultjenkins.png)
