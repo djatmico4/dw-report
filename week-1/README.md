@@ -7,8 +7,7 @@
   Pada week 1 ini, akan dijelaskan secara step by step mengenai ;
 
   - Instalasi ubuntu server melalui virtual machine sebagai server lokal.
-  - Setup network di virtual machine.
-  - Install dan deploy aplikasi nodejs <br><br>
+  - Setup network di virtual machine. <br><br>
 
     ![arsitektur](arsitektur.png) <br><br>
 
@@ -18,11 +17,10 @@
 
   Tahapan yang dipelajari antara lain ;
 
-  - Create and setup server AWS.
-  - Setup server for apps.
-  - Setup server for reverse proxy.
-  - Setup custom domain.
-  - Setup SSL configuration. <br><br>
+  - Create server multipass.
+  - Setup environtment.
+  - Reverse proxy.
+  - Create virtual domain.<br><br>
 
     ![arsitektur2](arsitektur2.png) <br><br>
 
@@ -30,17 +28,15 @@
 
 Sebelum memulai tugas di atas, hal-hal yang perlu dipersiapkan antara lain ;
 
-- Server : Ubuntu server (18.x), web server (nginx) & AWS
+- Server : Ubuntu server (20.x), web server (nginx) & AWS
 - Security group : 22, 80, 443 & all traffic
 - Aplikasi frontend : dumbflix-frontend <br><br>
 
 # **Penyelesaian**
 
-- [VMWare - Install Ubuntu Server](VMWare-Install-Ubuntu-Server.md)
-- [VMWare - Setup network](VMWare-Setup-Network.md)
-- [VMWare - Install Application](VMWare-Install-Application.md)
-- [AWS - Create and Setup Server](AWS-Create-and-Setup-Server.md)
-- [AWS - Server for Application](AWS-Server-for-Application.md)
-- [AWS - Reverse Proxy](AWS-Reverse-Proxy.md)
-- [AWS - Custom Domain](AWS-Custom-Domain.md)
-- [AWS - SSL Configuration](AWS-SSL-Configuration.md)
+- [VMWare - Install ubuntu server](1.VMWare-install-ubuntu-server.md)
+- [VMWare - Setup network](2.VMWare-setup-network.md)
+- [Create server multipass](3.Create-server-multipass.md)
+- [Setup environtment](4.Setup-environtment.md)
+- [Reverse proxy](5.Reverse-proxy.md)
+- [Create virtual domain](6.Create-virtual-domain.md)
