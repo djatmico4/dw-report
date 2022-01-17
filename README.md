@@ -5,7 +5,7 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - VMWare install ubuntu server.
 - VMWare setup network.
 - Create server multipass.
-- Setup environtment.
+- Setup environment.
 - Reverse proxy.
 - Create virtual domain.
 - [Baca lebih lanjut](week-1/README.md).
