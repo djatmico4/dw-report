@@ -35,9 +35,8 @@
 
 # **Penyelesaian**
 
-- [Install Git & SSH key](Install-Git-and-SSH-key.md)
-- [Setup Databases](Setup-Databases.md)
-- [Deployment Backend App](Deployment-Backend-App.md)
-- [Reverse Proxy For Backend App](Reverse-Proxy-For-Backend-App.md)
-- [Custom Domain For Backend App](Custom-Domain-For-Backend.md)
-- [SSL Configuration For Backend App](SSL-Configuration-For-Backend-App.md)
+- [Install Git & SSH key](1.Install-git-and-ssh-key.md)
+- [Setup database](2.Setup-database.md)
+- [Deployment backend](3.Deployment-backend.md)
+- [Reverse proxy for backend app](4.Reverse-proxy-for-backend-app.md)
+- [Custom domain for backend app](5.Custom-domain-for-backend-app.md)
