@@ -16,4 +16,4 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - Deploy backend.
 - Reverse proxy for backend app.
 - Custom domain for backend app.
-- [Baca lebih lanjut](week-2/README.md)
+- [Baca lebih lanjut](week-2/README.md).
