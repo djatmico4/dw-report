@@ -6,8 +6,7 @@ Dalam sebuah perusahaan, server yang digunakan pastilah sangat banyak. Apabila t
 
 Hal yang akan dipelajari ;
 - Setup monitoring server.
-- Connect multiple server to Promotheus.
-- Deploy PHP application in cPanel. <br><br>
+- Connect multiple server to Promotheus. <br><br>
 
 - ## **Ansible**
 
@@ -21,5 +20,4 @@ Hal yang akan dipelajari ;
 
 - [Setup Monitoring Server](Setup-Monitoring-Server.md)
 - [Connect Multiple Server to Promotheus](Connect-Multiple-Server-to-Promotheus.md)
-- [Deploy PHP Application in cPanel](Deploy-PHP-Application-in-cPanel.md)
 - [Setup Server with Ansible](Setup-Server-with-Ansible.md)
