@@ -25,3 +25,9 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - Install jenkins.
 - Setup jenkins job
 - [Baca lebih lanjut](week-3/README.md).
+
+## **MInggu ke 4**
+- Setup monitoring server.
+- Connect multiple server to Prometheus.
+- Setup server with ansible.
+- [Baca lebih lanjut](week-4/README.md).
