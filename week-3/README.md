@@ -30,8 +30,8 @@
 
  **Penyelesaian**
 
-- [Install Docker](Install-Docker.md)
-- [Create Docker Images](Create-Docker-Images.md)
-- [Install Applications](Install-Applications.md)
-- [Install Jenkins](Install-Jenkins.md)
-- [Setup Jenkins Jobs](Setup-Jenkins-Jobs.md)
+- [Install Docker](1.Install-docker.md)
+- [Create Docker Images](2.Create-docker-image.md)
+- [Install Applications](3.Install-application.md)
+- [Install Jenkins](4.Install-jenkins.md)
+- [Setup Jenkins Jobs](5.Setup-jenkins-job.md)

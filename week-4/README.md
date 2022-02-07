@@ -18,6 +18,6 @@ Hal yang akan dipelajari ;
 
 # **Penyelesaian**
 
-- [Setup Monitoring Server](Setup-Monitoring-Server.md)
-- [Connect Multiple Server to Promotheus](Connect-Multiple-Server-to-Promotheus.md)
-- [Setup Server with Ansible](Setup-Server-with-Ansible.md)
+- [Setup Monitoring Server](1.Setup-monitoring-server.md)
+- [Connect Multiple Server to Promotheus](2.Connect-multiple-server-to-prometheus.md)
+- [Setup Server with Ansible](3.Setup-server-with-ansible.md)
