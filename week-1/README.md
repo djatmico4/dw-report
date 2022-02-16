@@ -37,6 +37,6 @@ Sebelum memulai tugas di atas, hal-hal yang perlu dipersiapkan antara lain ;
 - [VMWare - Install ubuntu server](1.VMWare-install-ubuntu-server.md)
 - [VMWare - Setup network](2.VMWare-setup-network.md)
 - [Create server multipass](3.Create-server-multipass.md)
-- [Setup environtment](4.Setup-environtment.md)
+- [Setup environtment](4.Setup-environment.md)
 - [Reverse proxy](5.Reverse-proxy.md)
 - [Create virtual domain](6.Create-virtual-domain.md)

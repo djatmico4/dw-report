@@ -9,14 +9,14 @@ CI/CD menggunakan jenkins dan installasinya menggunakan docker, akan dibuatkan j
 Server monitoring menggunakan node-exporter di install di semua instance/server untuk mengambil metrics-nya, prometheus sebagai query metrics diberikan authentication ketika sistemnya diakses. Untuk grafik dan tampilan monitoring menggunakan Grafana.
 
 ## **Penyelesaian**
-- [Repository](1.repository.md)
-- [Server](2.server.md)
-- [User](3.user.md)
-- [SSH](4.ssh.md)
-- [Database](5.database.md)
-- [Webserver](6.webserver.md)
-- [Deployment](7.deployment.md)
-- [CICD](8.cicd.md)
-- [Monitoring](9.monitoring.md)
-- [Auth](10.auth.md)
+- [Add Repository](1.repository.md)
+- [Setup Server](2.server.md)
+- [Add new user for new server](3.user.md)
+- [Add ssh-key to github](4.ssh.md)
+- [Setup database for app](5.database.md)
+- [Setup webserver for reverse proxy](6.webserver.md)
+- [Deployment frontend and backend application](7.deployment.md)
+- [Install and manage CICD](8.cicd.md)
+- [Setup monitoring server with prometheus & grafana](9.monitoring.md)
+- [Setup auth for Prometheus](10.auth.md)
 

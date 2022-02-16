@@ -33,14 +33,14 @@ DumbWays merupakan bootcamp DevOps gratis dan disalurkan kerja.
 - [Baca lebih lanjut](week-4/README.md).
 
 ## **Final Task**
-- Repository
-- Server
-- User
-- SSH
-- Database
-- Webserver
-- Deployment
-- CICD
-- Monitoring
-- Auth
+- Add repository.
+- Setup server.
+- Add new user for new server.
+- Add ssh-key to github.
+- Setup database for app.
+- Setup webserver for reverse proxy.
+- Deployment frontend and backend application.
+- Install and manage CICD.
+- Setup monitoring server with prometheus & grafana.
+- Setup auth for Prometheus.
 - [Baca lebih lanjut](final-task/README.md)
